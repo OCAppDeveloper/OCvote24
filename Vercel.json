@@ -1,6 +1,6 @@
 {
   "buildCommand": "pnpm install && pnpm build",
-  "outputDirectory": ".output/public",
+  "outputDirectory": ".output",
   "cleanUrls": true,
   "rewrites": [
     {
